@@ -15,7 +15,7 @@ Uses Least Significant Bit (LSB) steganography method 💻
 
 Provides both encoding and decoding functionality 🔄
 
-Easy-to-use graphical user interface 📱
+Easy-to-use IDE interface 📱
 
 # Usage 💡
 
