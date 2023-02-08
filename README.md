@@ -31,21 +31,20 @@ Run the project: python main.py 🚀
 
 The project uses the **_Least Significant Bit (LSB)_** steganography technique 💻 to hide data in image files 📷. The LSB method works by modifying the least significant bit of the pixel values in an image to encode the hidden data 🤫.
 
-Each pixel in an image is represented by a number, and this number is usually stored in 24 bits or 8 bits per color channel (red, green, and blue). The LSB technique modifies the least significant bit of each color channel to store the hidden data. For example, if the original pixel value is 10010110, the least significant bit is 0. The LSB technique would change this value to 10010111, which would slightly alter the pixel color, but not noticeably to the human eye. This process is repeated for each pixel in the image, allowing a large amount of hidden data to be stored within the image file.
+Each pixel in an image is represented by a number, and this number is usually stored in 24 bits or 8 bits per color channel (red, green, and blue). 🟥The LSB technique modifies the least significant bit of each color channel to store the hidden data. For example, if the original pixel value is 10010110, 🟩the least significant bit is 0. 🟦The LSB technique would change this value to 10010111, which would slightly alter the pixel color, but not noticeably to the human eye 👁️. This process is repeated for each pixel in the image, allowing a large amount of hidden data to be stored within the image file 🖼️💾.
 
-The **_MD5Sum_** algorithm is a widely used hash function that is commonly used to verify the integrity of a file. In the context of image steganography, it can be used to check the integrity of the image file before and after the hidden data has been encoded.
+The 🔢 **_MD5Sum_** algorithm is a widely used hash function that is commonly used to verify the integrity of a file. In the context of image steganography, it can be used to check the integrity of the image file before and after the hidden data has been encoded 🔍.
 
-The **_Advanced Encryption Standard (AES)_** is a widely used symmetric encryption algorithm that can be used in image steganography to secure the hidden data. The AES algorithm uses a symmetric key to both encrypt and decrypt the data, meaning the same key is used for both the encoding and decoding processes.
-
+The 🔒 **_Advanced Encryption Standard (AES)_** is a widely used symmetric encryption algorithm that can be used in image steganography to secure the hidden data. The AES algorithm uses a symmetric key to both encrypt and decrypt the data, meaning the same key is used for both the encoding and decoding processes 🔑🔓.
 # Dependencies 📚
 
 Python 3 🐍
 
-Kali Linunx
+Kali Linux 🐉
 
-Visual Studio Code
+Visual Studio Code 💻
 
-Prevent
+Prevent 🎗️
 
 # Limitations ❗️
 
