@@ -19,7 +19,7 @@ Easy-to-use IDE interface 📱
 
 # Usage 💡
 
-Clone the repository: git clone https://github.com/[YourUsername]/ImageSteganography.git 💾
+Clone the repository: git clone https://github.com/bennetbvarghese/ImageSteganography.git 💾
 
 Navigate to the project directory: cd ImageSteganography 🚶‍♂️
 
