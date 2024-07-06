@@ -21,9 +21,9 @@ Easy-to-use IDE interface 📱
 
 # Usage 💡
 
-Clone the repository: git clone https://github.com/bennetbvarghese/Image-Steganography-Cyber-Security-Project.git 💾
+Clone the repository: git clone https://github.com/bennetbvarghese/Invisible-Ink.git 💾
 
-Navigate to the project directory: cd ImageSteganography 🚶‍♂️
+Navigate to the project directory: cd InvisibleInk 🚶‍♂️
 
 Install the required dependencies: pip install -r requirements.txt 🔧
 
